@@ -1,0 +1,26 @@
+Circuit: * D:\OneDrive - UvA\Documenten\General\Projects\IOP_Schreck_RfAmp_NPA1006\LTSpices\LT8608-8V-600kHz.asc
+
+Coc1: Increased Cpar to 2.09086e-011
+Cob1: Increased Cpar to 2.2e-010
+Cinc1: Increased Cpar to 9.25714e-013
+Cinb1: Increased Cpar to 4.8002e-012
+Direct Newton iteration for .op point succeeded.
+
+Date: Thu Jun 01 14:51:00 2023
+Total elapsed time: 46.662 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 4140278
+traniter = 4140270
+tranpoints = 1230130
+accept = 908895
+rejected = 321235
+matrix size = 66
+fillins = 3
+solver = Normal
+Thread vector: 5.6/4.3[4] 3.3/2.5[4] 0.8/1.4[1] 0.1/1.0[1]  2592/500
+Matrix Compiler1: 1.72 KB object code size  0.4/0.2/[0.1]
+Matrix Compiler2: 3.75 KB object code size  0.2/0.7/[0.2]
+
