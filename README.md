@@ -74,4 +74,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions or support, please contact:
 
-- **Email:** xx@strontiumbec.com
+- **Email:** e.w.baaij@uva.nl
+- p.thekkeppatt@outlook.com
+- t.vanroon@uva.nl
