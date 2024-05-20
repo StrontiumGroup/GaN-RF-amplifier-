@@ -29,6 +29,8 @@ This project presents the design and characterization of a high-power RF amplifi
 This RF amplifier is designed to drive AO/EO modulators which control and modulate the frequency, amplitude, and phase of laser beams in ultracold atom experiments. It is optimized for high power efficiency (>35%) and long-term RF power stability (0.01 dBm).
 
 ## Design
+Design schematics are in RF_PowerAmp_V12.pdf and gerbers and other design files are in RF_PowerAmp_V12.zip
+![Screenshot 2024-05-20 140654](https://github.com/StrontiumGroup/GaN-RF-amplifier-/assets/123593581/c03c8cfe-6a49-459f-a3a2-685408cc598b)
 
 ### Switching Power Regulation Unit
 
