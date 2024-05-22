@@ -26,7 +26,7 @@ This project presents the design and characterization of a high-power RF amplifi
 
 ## Introduction
 
-This RF amplifier is designed to drive AO/EO modulators which control and modulate the frequency, amplitude, and phase of laser beams in ultracold atom experiments. It is optimized for high power efficiency (>35%) and long-term RF power stability (0.01 dBm).
+This RF amplifier is designed to drive AO/EO modulators that control and modulate the frequency, amplitude, and phase of laser beams in ultracold atom experiments. It is optimized for high power efficiency (>35%) and long-term RF power stability (0.01 dBm).
 
 ## Design
 Design schematics are in RF_PowerAmp_V12.pdf and gerbers and other design files are in RF_PowerAmp_V12.zip
