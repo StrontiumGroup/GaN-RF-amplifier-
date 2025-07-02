@@ -77,3 +77,7 @@ For questions or support, please contact:
 - **Email:** e.w.baaij@uva.nl
 - p.thekkeppatt@outlook.com
 - t.vanroon@uva.nl
+
+## Reference
+
+- Premjith Thekkeppatt, Edwin Baaij, Tijs van Roon, Klaasjan van Druten, Florian Schreck, _High-power RF amplifier for ultracold atom experiments_, ![arXiv:2506.18137 (2025)]([https://arxiv.org/abs/2506.18137]).
